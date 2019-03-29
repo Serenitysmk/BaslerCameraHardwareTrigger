@@ -14,7 +14,8 @@ In case you don't want to display images or you have your own function for savin
 --Pylon SDK
 Since we are using Basler camera, Pylon SDK must be installed on your system
 
-You could follow the instruction from Pylon documentation, https://www.baslerweb.com/en/products/software/basler-pylon-camera-software-suite/, select the corresponding documentation e.g. I'm using Basler acA1300-200um
+Please follow the instruction from Pylon documentation
+Documentation could be found here https://www.baslerweb.com/en/products/software/basler-pylon-camera-software-suite/, select the documentation correpond with your own camera model  e.g. I'm using Basler acA1300-200um
 
 # Usage
 cd BaslerCameraHardTrigger
