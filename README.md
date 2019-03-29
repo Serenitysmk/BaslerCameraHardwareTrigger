@@ -9,7 +9,7 @@ This is a simple program used for grabbing image from a Basler USB3 camera, trig
 2.Pylon SDK
 
 --OpenCV3 is used for display image grabbed and write image to disk
-In case you don't want to display images or you have your own function for saving image to disk, for free to disable OpenCV part
+In case you don't want to display images or you have your own function for writing image to disk, please feel free to disable OpenCV part
 
 --Pylon SDK
 Since we are using Basler camera, Pylon SDK must be installed on your system
