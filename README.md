@@ -27,7 +27,7 @@ cmake ..
 
 make
 
-../bin/ImageGrabController
+../bin/BaslerCameraHardTrigger
 
 # Parameter
 --camConfig:Camera configuration file, you could load camera parameters from configuration file before grabbing images
