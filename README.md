@@ -39,5 +39,5 @@ make
 
 --imgPostfix:Postfix of image filename
 
---showView:bool whether display image grabbed or not
+--showView: bool, whether display image grabbed 
 
