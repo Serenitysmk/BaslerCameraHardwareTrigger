@@ -1,7 +1,7 @@
 # BaslerCameraHardwareTrigger
 Basler Camera using hardware trigger
 # Description
-This is a simple program used for grabbing image from a Basler USB3 camera, trigger signal generated from Arduino microcontroller
+This is a simple program used for grabbing image from a Basler USB3 camera, trigger signal generated  Arduino microcontroller
 
 # Dependencies
 1.OpenCV3
