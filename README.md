@@ -18,17 +18,14 @@ Please follow the instruction from Pylon documentation
 Documentation could be found here https://www.baslerweb.com/en/products/software/basler-pylon-camera-software-suite/, select the documentation correpond with your own camera model  e.g. I'm using Basler acA1300-200um
 
 # Usage
+```
 cd BaslerCameraHardTrigger
-
 mkdir build
-
 cd build
-
 cmake ..
-
 make
-
 ../bin/BaslerCameraHardTrigger
+```
 
 # Parameter
 --camConfig:Camera configuration file, you could load camera parameters from configuration file before grabbing images
